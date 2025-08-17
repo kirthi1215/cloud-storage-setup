@@ -48,4 +48,12 @@ This task was an excellent opportunity to apply my cloud computing knowledge to 
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/436cb2f3-3150-4f86-92cf-87a80a92a5d2" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42bafc5e-5828-4e30-9311-b773e8781b86" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3f436422-e672-42c0-9226-c9e8e613d886" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a1c9fb93-fb97-470a-982c-e0ddcd7f9125" />
+
 
